@@ -1,0 +1,10 @@
+{
+    "login": {
+      "welcome": "Welcome {{name}} to our 000-------",
+      "login_button": "تسجيل الدخول",
+      "signup_button": "تسجيل"
+    },
+    "user_profile": {
+      "title": "Your Profile"  
+    }
+  }
